@@ -4,20 +4,15 @@
 #include <setupapi.h>
 #include <stdio.h>
 
+#include "base.h"
+
+#include "storage.cpp"
+
 #pragma comment(lib, "hid.lib")
 #pragma comment(lib, "setupapi.lib")
 #pragma comment(lib, "winusb.lib")
 #pragma comment(lib, "winmm.lib")
 #pragma comment(lib, "ntdll.lib")
-
-#define internal static
-#define local_persist static
-#define global_variable static
-
-typedef unsigned char uint8;
-typedef uint8_t uint8;
-typedef uint16_t uint16;
-typedef uint32_t uint32;
 
 
 #define LOG_ERROR(f_, ...) wprintf((f_), __VA_ARGS__)
@@ -142,7 +137,6 @@ internal bool OpenDevice(HANDLE* handle, Device_t* device, bool exclusive)
           NULL);
       }
 
-      // HID handle valid?
       if (deviceHandle != INVALID_HANDLE_VALUE)
       {
         // HID Attributes
@@ -232,6 +226,19 @@ internal bool OpenDevice(HANDLE* handle, Device_t* device, bool exclusive)
 int
 main(int argc, char**argv)
 {
+  Memory mem = {};
+  if (!mem.isInitialized)
+  {
+    mem.isInitialized = true;
+    mem.transientMemorySize = Megabytes(8);
+    mem.persistentMemorySize = Megabytes(8);
+    // TODO(michalc): need a better/cross platform malloc?
+    mem.transientMemory = malloc(mem.transientMemorySize);
+    mem.transientTail = mem.transientMemory;
+    mem.persistentMemory = malloc(mem.persistentMemorySize);
+    mem.persistentTail = mem.persistentMemory;
+  }
+
   Mapper_t mapper = {};
   TabletState_t tablet = {};
   Device_t device = {};
