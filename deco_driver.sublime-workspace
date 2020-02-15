@@ -1,0 +1,1548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"wider",
+				"wider_parts_height"
+			],
+			[
+				"spacing",
+				"spacing_accumlator"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"lyri",
+				"lyrics_line"
+			],
+			[
+				"lyrics",
+				"lyrics_line"
+			],
+			[
+				"ANCHO",
+				"ANCHOR_ORIENTATION"
+			],
+			[
+				"rotation",
+				"rotation_euler"
+			],
+			[
+				"ANCHOR",
+				"ANCHOR_LOCATION"
+			],
+			[
+				"frame",
+				"frame_start"
+			],
+			[
+				"default",
+				"default_value"
+			],
+			[
+				"samp",
+				"sampling_rate"
+			],
+			[
+				"sam",
+				"sampling_rate"
+			],
+			[
+				"GLM",
+				"GLM_VEC3_ZERO"
+			],
+			[
+				"nodes",
+				"nodes_window_transform"
+			],
+			[
+				"window",
+				"windowsLayout"
+			],
+			[
+				"dumm",
+				"dummy_obj"
+			],
+			[
+				"prox",
+				"proxy_mesh_name_field"
+			],
+			[
+				"proxy",
+				"proxy_name"
+			],
+			[
+				"pro",
+				"proxy_mesh_name_field"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"up",
+				"updateTransorm"
+			],
+			[
+				"is_",
+				"is_renaming"
+			],
+			[
+				"rename",
+				"rename_field_focused"
+			],
+			[
+				"layer",
+				"layer_renaming_idx"
+			],
+			[
+				"is",
+				"is_renaming"
+			],
+			[
+				"off",
+				"offset_x"
+			],
+			[
+				"of",
+				"offset_y"
+			],
+			[
+				"TAG_",
+				"TAG_PLAYER_1_PAWN"
+			],
+			[
+				"bytes",
+				"bytesPerPixel"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"Resi",
+				"ResizeScreenBuffer"
+			],
+			[
+				"wind",
+				"windowWidth"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"SDL_WIN",
+				"SDL_WINDOWEVENT"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"center",
+				"centerImage"
+			],
+			[
+				"WIND",
+				"WINDOW_DEFAULT_HEIGHT"
+			],
+			[
+				"UpdateImage",
+				"UpdateImageInfo"
+			],
+			[
+				"STBI_rgb",
+				"STBI_rgb_alpha"
+			],
+			[
+				"search",
+				"searchDirectory"
+			],
+			[
+				"channels",
+				"channelsCount"
+			],
+			[
+				"chann",
+				"channelCount"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"gene",
+				"generatedList"
+			],
+			[
+				"files",
+				"filesList"
+			],
+			[
+				"list",
+				"ListDirectoryContents"
+			],
+			[
+				"exten",
+				"extension"
+			],
+			[
+				"vali",
+				"validFile"
+			],
+			[
+				"List",
+				"ListDirectoryContents"
+			],
+			[
+				"stretch",
+				"stretchy_buffer.h"
+			],
+			[
+				"bool",
+				"bool32"
+			],
+			[
+				"test",
+				"test_struct_func"
+			],
+			[
+				"cir",
+				"circleBlitDestination"
+			],
+			[
+				"EXI",
+				"EXIT_FAILURE"
+			],
+			[
+				"EXIT",
+				"EXIT_SUCCESS"
+			],
+			[
+				"global",
+				"global_variable"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"uin",
+				"uint8_t"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"BTN_",
+				"BTN_6"
+			],
+			[
+				"_layer",
+				"_layerButton"
+			],
+			[
+				"Butt",
+				"ButtonCustomRole_e"
+			],
+			[
+				"LAYER",
+				"LAYER_1"
+			],
+			[
+				"custom",
+				"customRole"
+			],
+			[
+				"LAY",
+				"LAYERS_COUNT"
+			],
+			[
+				"Buttons",
+				"ButtonsRoles_e"
+			],
+			[
+				"KEY",
+				"KEY_LEFT_SHIFT"
+			],
+			[
+				"KEY_",
+				"KEY_LEFT_CTRL"
+			],
+			[
+				"curr",
+				"currentState"
+			],
+			[
+				"Reset",
+				"ResetState"
+			],
+			[
+				"trans",
+				"transientState"
+			],
+			[
+				"Time",
+				"TimedOut"
+			],
+			[
+				"cu",
+				"currentState"
+			],
+			[
+				"Timer",
+				"TimerUpdateState"
+			],
+			[
+				"btn",
+				"btn1"
+			],
+			[
+				"previ",
+				"previousState"
+			],
+			[
+				"Update",
+				"UpdateState"
+			],
+			[
+				"Bu",
+				"ButtonsState_t"
+			],
+			[
+				"current",
+				"currentState"
+			],
+			[
+				"shooti",
+				"shootingCooldown"
+			],
+			[
+				"shoo",
+				"shootingCooldown"
+			],
+			[
+				"shootin",
+				"shootingRate"
+			],
+			[
+				"guncasing",
+				"gunCasingsSpawnPoint\tGameObject"
+			],
+			[
+				"gun",
+				"gunCasingSpawnPoint\tGameObject"
+			],
+			[
+				"movem",
+				"movementDirection"
+			],
+			[
+				"move",
+				"movementDirection"
+			],
+			[
+				"mov",
+				"movementDirection"
+			],
+			[
+				"Move",
+				"MoveTowardsPlayer"
+			],
+			[
+				"mouse",
+				"mouseSensitivity"
+			],
+			[
+				"rebake",
+				"rebake_set"
+			],
+			[
+				"sour",
+				"source_meshes"
+			],
+			[
+				"source",
+				"source_mesh"
+			],
+			[
+				"headi",
+				"heading_t"
+			],
+			[
+				"heading",
+				"headingDifference"
+			],
+			[
+				"camer",
+				"cameraForward"
+			],
+			[
+				"paw",
+				"pawnForward"
+			],
+			[
+				"new",
+				"newHeading"
+			],
+			[
+				"head",
+				"heading_t"
+			],
+			[
+				"transf",
+				"transform"
+			],
+			[
+				"Seri",
+				"SerialPortThread"
+			],
+			[
+				"port",
+				"port_number"
+			],
+			[
+				"clas",
+				"class\tNew Class"
+			],
+			[
+				"seri",
+				"serial_thread"
+			],
+			[
+				"selected",
+				"selected_material"
+			],
+			[
+				"objec",
+				"objects_with_materials"
+			],
+			[
+				"select",
+				"selected_object"
+			],
+			[
+				"selec",
+				"selected_object"
+			],
+			[
+				"obj",
+				"objects_with_materials"
+			],
+			[
+				"ob",
+				"objects_with_materials"
+			],
+			[
+				"sce",
+				"sceneObjects"
+			],
+			[
+				"TIM_CHANN",
+				"TIM_CHANNEL_1"
+			],
+			[
+				"Lo",
+				"Log(object message)\tvoid"
+			],
+			[
+				"DS",
+				"DS1307_REG_SECONDS"
+			],
+			[
+				"DS1307_",
+				"DS1307_RAM_SIZE"
+			],
+			[
+				"DS1307_SQ",
+				"DS1307_SQW_4kHZ"
+			],
+			[
+				"DS1",
+				"DS1307_H"
+			],
+			[
+				"DS13",
+				"DS1307_H"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"Squa",
+				"SquareWave1HZ"
+			],
+			[
+				"mcp",
+				"mcpStatus"
+			],
+			[
+				"MCP",
+				"MCPStatus_t"
+			],
+			[
+				"using",
+				"using\tusing"
+			],
+			[
+				"foreach",
+				"foreach\tforeach"
+			],
+			[
+				"fore",
+				"foreach\tforeach"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"Trans",
+				"Transform2DSystem\tTransform2DSystem"
+			],
+			[
+				"Mono",
+				"MonoBehaviour\tMonoBehaviour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"close pro",
+				"Project: Close"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"theem",
+				"ayu: Activate theme"
+			],
+			[
+				"packainsa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packainsl",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"repository",
+				"Package Control: Remove Repository"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"pakcage list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"save proje",
+				"Project: Save As"
+			],
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"set color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set theme",
+				"UI: Select Theme"
+			],
+			[
+				":q",
+				"File: Copy Path Quoted"
+			],
+			[
+				"godot",
+				"Set Syntax: GDScript (Godot Engine)"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":ww",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote new",
+				"Evernote: New empty note"
+			],
+			[
+				"evernote crea",
+				"Evernote: Create New Notebook"
+			],
+			[
+				"open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernoteopen",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				":ew",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"updte",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"open ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"open note",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"opennote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open noe",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"updat",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"packagelis",
+				"Package Control: List Packages"
+			],
+			[
+				"upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernoteupda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"packagin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 243.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mc/gits/deco_driver"
+	],
+	"file_history":
+	[
+		"/C/Users/mc/gits/node_editor/src/node_editor.c",
+		"/C/Users/mc/Desktop/andas/py/example.json",
+		"/C/Users/mc/Desktop/andas/py/generate_text_json.py",
+		"/C/Users/mc/Desktop/nodes.c",
+		"/C/Users/mc/gits/TabletDriver/TabletDriverService/precompiled.cpp",
+		"/C/Users/mc/gits/TabletDriver/TabletDriverService/precompiled.h",
+		"/C/Users/mc/Desktop/andas/py/generate_text.py",
+		"/C/Users/mc/gits/raw_node_editor/src/cglm/mat4.h",
+		"/C/Users/mc/gits/raw_node_editor/src/storage.cpp",
+		"/C/Users/mc/gits/raw_node_editor/src/render.cpp",
+		"/C/Users/mc/gits/raw_node_editor/src/nuklear.h",
+		"/C/Users/mc/gits/raw_node_editor/src/nuklear_sdl_gles2.h",
+		"/C/Users/mc/gits/raw_node_editor/src/shaders.h",
+		"/C/Users/mc/gits/raw_node_editor/src/cglm/cam.h",
+		"/C/Users/mc/gits/raw_node_editor/src/main.cpp",
+		"/C/Users/mc/gits/raw_node_editor/buildWindows.bat",
+		"/C/Users/mc/gits/raw_node_editor/.gitmodules",
+		"/C/Users/mc/gits/win_app/code/win32_main.cpp",
+		"/C/Users/mc/gits/win_app/README.md",
+		"/C/Users/mc/gits/TabletDriver/TabletDriverService/Main.cpp",
+		"/C/Users/mc/gits/TabletDriver/TabletDriverService/Tablet.h",
+		"/C/Users/mc/gits/TabletDriver/TabletDriverService/OutputDummy.h",
+		"/C/Users/mc/Downloads/ArmorySDK1910/ArmorySDK/README.md",
+		"/C/Users/mc/Desktop/armory_test/build_armory_test/html5/index.html",
+		"/C/Users/mc/Downloads/pinball_project/post.scad",
+		"/C/Users/mc/Desktop/andas/py/main.py",
+		"/C/Users/mc/Desktop/armory_test/build_armory_test/html5/kha.js",
+		"/C/Users/mc/Desktop/this_vibe/pyt/analyze_music.py",
+		"/C/Users/mc/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/profiles.json",
+		"/C/Users/mc/Desktop/duplicate.txt",
+		"/H/dietpi.txt",
+		"/C/Users/mc/.ssh/id_rsa.pub",
+		"/C/Users/mc/gits/raw_node_editor/src/cglm/affine.h",
+		"/C/Users/mc/Desktop/node.obj",
+		"/C/Users/mc/gits/raylib-gltf/libs/gltf/json.hpp",
+		"/C/Users/mc/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/RoamingState/profiles.json",
+		"/C/Users/mc/gits/raw_node_editor/README.md",
+		"/C/Users/mc/gits/node_editor/README.md",
+		"/C/Users/mc/gits/observer/README.md",
+		"/C/Users/mc/gits/node_editor/src/base.h",
+		"/C/Users/mc/gits/node_editor/src/main.cpp",
+		"/C/Users/mc/Desktop/cap_buttons/cap_buttons.ino",
+		"/C/raylib/tcc/examples/hello_dll.c",
+		"/C/Users/mc/gits/node_editor/src/nuklear.h",
+		"/C/Users/mc/gits/node_editor/buildWindows.bat",
+		"/C/Users/mc/gits/observer/buildLinux.sh",
+		"/C/Users/mc/gits/observer/buildWindows.bat",
+		"/C/Users/mc/gits/observer/src/main.cpp",
+		"/C/Users/mc/gits/observer/src/nuklear_sdl_gles2.h",
+		"/C/Users/mc/gits/observer/src/nuklear.h",
+		"/C/Users/mc/gits/observer/src/fbx.h",
+		"/C/Users/mc/gits/observer/.gitignore",
+		"/C/Users/mc/gits/milton_fork/milton/src/canvas.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/StrokeList.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/localization.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/localization.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/bindings.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/StrokeList.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/canvas.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/milton.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/milton.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/bindings.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/persist.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/gui.cc",
+		"/C/Users/mc/Downloads/apartment_ad.txt",
+		"/C/Users/mc/AppData/Local/Temp/visual_kpi_runner.md",
+		"/C/Users/mc/Desktop/circuit.txt",
+		"/C/Users/mc/gits/milton/src/bindings.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/memory.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/system_includes.h",
+		"/C/Users/mc/gits/milton_fork/milton/src/tiny_jpeg.h",
+		"/C/Users/mc/gits/milton/src/gui.cc",
+		"/C/Users/mc/gits/milton_fork/milton/src/sdl_milton.cc",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Generate Primitives/__main__.py",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Examples/Creating UIs.py",
+		"/C/Program Files/Marmoset/Toolbag 3/serial_script.py",
+		"/C/Users/mc/gits/observer/vcvars.bat",
+		"/C/raylib/raylib/games/ecs.c",
+		"/C/raylib/raylib/examples/shapes/car.c",
+		"/C/Users/mc/gits/observer/src/SDL2-2.0.8/include/SDL.h",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Proxy System/__main__.py",
+		"/C/Users/mc/gits/observer/src/glew-2.1.0/include/GL/glew.h",
+		"/C/Users/mc/gits/observer/src/linux_main.cpp",
+		"/C/Program Files/Pixologic/ZBrush 2018/ZStartup/Macros/Misc/SplitMaskedUnderCursor.txt",
+		"/C/Users/mc/gits/observer/src/SDL2-2.0.8/include/SDL_stdinc.h",
+		"/C/Users/mc/gits/observer/src/SDL2-2.0.8/VisualC/SDLmain/x64/Release/SDLmain.log",
+		"/C/Users/mc/gits/observer/src/SDL2-2.0.8/VisualC/SDLmain/x64/Release/SDL_windows_main.obj",
+		"/C/Users/mc/gits/win_app/code/build.bat",
+		"/C/Users/mc/gits/milton/Milton.rc",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Examples/Console Logging.py",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Proxy System/__main__.py.py",
+		"/C/Program Files/Marmoset/Toolbag 3/data/plugin/Generate Primitives/plane.py",
+		"/C/Program Files/Marmoset/Toolbag 3/proxy_system.py",
+		"/C/Users/mc/Desktop/3Dprint/grassetti_ecorche_head/README.txt",
+		"/C/Users/mc/Downloads/milton-master/src/gui.cc",
+		"/C/Users/mc/Downloads/milton-master/src/localization.cc",
+		"/C/Users/mc/Downloads/milton-master/src/localization.h",
+		"/C/Users/mc/Documents/ECS_shmup/Library/PackageCache/com.unity.tiny@0.14.3-preview/README.md",
+		"/C/Users/mc/Documents/ECS_shmup/Assets/RotationSpeed.cs",
+		"/C/Program Files/Pixologic/ZBrush 2018/ZStartup/Macros/Misc/mergeSTUnderCursor.txt",
+		"/C/Users/mc/Desktop/A ZScriptRecordedSession.TXT",
+		"/C/Users/mc/Documents/Syncthing/MD/QuickNote.md",
+		"/C/Users/mc/Desktop/index.html",
+		"/C/Users/mc/Documents/Syncthing/MD/todo.txt",
+		"/C/Users/mc/Documents/Syncthing/MD/Swe.md",
+		"/C/Users/mc/Downloads/handmade_hero_099_source/handmade_hero_day_012_source/code/handmade.cpp",
+		"/C/Users/mc/Downloads/SDL2-2.0.8/src/render/SDL_sysrender.h",
+		"/C/Users/mc/Downloads/SDL2-2.0.8/src/dynapi/SDL_dynapi_overrides.h",
+		"/C/Users/mc/Downloads/SDL2-2.0.8/src/render/SDL_render.c",
+		"/C/Users/mc/Downloads/SDL2-2.0.8/src/video/SDL_video.c",
+		"/C/Users/mc/Downloads/SDL2-2.0.8/include/SDL_render.h",
+		"/C/Users/mc/gits/code_library/blender/export_fbx.py",
+		"/C/Users/mc/Desktop/zcript.TXT",
+		"/C/Users/mc/Desktop/Handmade Penguin/davidgow.net/handmadepenguin/default0.html",
+		"/C/Users/mc/Desktop/Handmade Penguin/davidgow.net/handmadepenguin/default.html",
+		"/C/Users/mc/Downloads/build_ffmpeg_proxies.py",
+		"/C/Users/mc/gits/code_library/zbrush/template.txt",
+		"/C/Users/mc/gits/code_library/shaders/raylib_test_code.c",
+		"/C/Users/mc/gits/code_library/shaders/panning_squares.frag",
+		"/F/scenes/InPROGRESS/BuffKnight/README.md",
+		"/C/raylib/raylib/examples/shaders/shaders_custom_uniform.c",
+		"/C/Users/mc/gits/SDL_imageViewer/code/win_main.cpp",
+		"/C/Users/mc/gits/rust_test/src/main.rs",
+		"/C/Program Files/Pixologic/ZBrush 2018/ZStartup/Macros/Misc/HideSTUnderCursor.txt",
+		"/C/Users/mc/Desktop/temp.TXT",
+		"/F/Software_ADDons/Zbrush/plugins/HideSTunderCursor/HideSTunderCursor.txt",
+		"/F/Software_ADDons/Zbrush/plugins/HideSTunderCursor/readme.txt",
+		"/C/Users/mc/Documents/shaders_shapes_textures_cubes_panning.c"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"node_editor.c",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\" ",
+			"cl.exe",
+			"every_1_second",
+			"msg",
+			"INITIAL_POS",
+			"line",
+			"import bpy\nfrom pathlib import Path\nimport sys\nimport re\n\n\"\"\"\n\nThe expected line format is:\n\n    8:1:I've; tried,; tried,; tried,; and i’ve; tried; even; more\n\n\"\"\"\n\nFONT_SIZE = 1\nINITIAL_POS = (0, 0, 0)\nLINES_SPACE = 1\nFPS = 24\nLOAD_FROM_FILE = False\n\nLYRICS = u\"2:1:Lyssna inte på mig\\n\"\\\n          \"3:1:Jag har tagit allt för givet, jag bara faller\\n\"\\\n          \"4:1:Sen så fort hitta ord, jag måste blunda lite\"\n\nif LOAD_FROM_FILE:\n    LYRICS_FILE = Path(r\"C:\\Users\\mc\\Desktop\\no_more_fucks\\lyrics.txt\")\n    # Something fails with this regex.\n    REGEX_PATTERN = re.compile(r\"(?P<timing>[0-9]*\\.?[0-9]):(?P<phase>[0-9]*):(?P<lyrics>.*)\")\n\n    with LYRICS_FILE.open('r', encoding=\"utf-8\") as f:\n        LYRICS = f.read()\n\nLYRICS_PARSED = []\n\nclass LyricsLine():\n    \"\"\"docstring for LyricsLine\"\"\"\n    def __init__(self, text, phase, anim_start, anim_length):\n        self.text = text\n        self.phase = phase\n        self.anim_start = anim_start\n        self.anim_length = anim_length\n\n\nfor l in LYRICS.split('\\n'):\n    ll = l.split(':')\n    timing = float(ll[0])\n    phase = int(ll[1])\n    text_split = ll[2].split(';')\n    LYRICS_PARSED.append(LyricsLine(text_split, phase, timing, 50))\n\n\n# Find the anchor.\nanchor = bpy.data.objects[\"anchor\"]\nANCHOR_LOCATION = anchor.location\nANCHOR_ORIENTATION = anchor.rotation_euler\n\n# Build a shared grp_shared.\ngrp_shared = bpy.data.node_groups.new('grp_shared', type=\"ShaderNodeTree\")\ng_i = grp_shared.inputs.new('NodeSocketFloat', 'alpha')\ng_i.min_value = 0.0\ng_i.max_value = 1.0\ng_i.default_value = 1.0\ngrp_shared.outputs.new('NodeSocketShader','out')\n\ninput = grp_shared.nodes.new('NodeGroupInput')\ninput.location = (-350,0)\n\noutput = grp_shared.nodes.new('NodeGroupOutput')\noutput.location = (350,0)\n\ngroup_shader = grp_shared.nodes.new('ShaderNodeBsdfPrincipled')\ngroup_shader.location = (0,0)\n\ngrp_shared.links.new(input.outputs[\"alpha\"], group_shader.inputs[\"Alpha\"])\ngrp_shared.links.new(group_shader.outputs[0], output.inputs[\"out\"])\n\n\n\ndef get_text_object(idx: int, line: str, phase: int, anim_start: int, anim_length: int):\n    font_data = bpy.data.curves.new(name=f'line_{idx}', type='FONT')\n    obj = bpy.data.objects.new(f'font_line_{idx}', font_data)\n    obj.parent = anchor\n    obj.data.size = FONT_SIZE\n    obj.data.body = line[0]\n    print(idx % 3)\n    # location is in the parent coordinate system.\n    obj.location = (0.0, -(LINES_SPACE * (idx % 3)), 0.0)\n    obj.rotation_euler = ANCHOR_ORIENTATION\n    # Setup the material.\n    material = bpy.data.materials.new(name=\"mat__\")\n    material.use_nodes = True\n    material.blend_method = 'BLEND'\n    # Remove the default shader node.\n    material.node_tree.nodes.remove(material.node_tree.nodes[1])\n    # Setup material nodes.\n    shared = material.node_tree.nodes.new(type=\"ShaderNodeGroup\")\n    shared.node_tree = grp_shared\n    alpha_node = material.node_tree.nodes.new(type=\"ShaderNodeValue\")\n    shared.name = \"grp_shared\"\n    alpha_node.name = \"node_alpha\"\n    # Position the nodes.\n    material.node_tree.nodes[0].location = (300, 0)\n    shared.location = (0, 0)\n    alpha_node.location = (-300, 0)\n    # Link nodes\n    material.node_tree.links.new(shared.outputs[0], material.node_tree.nodes[\"Material Output\"].inputs[0])\n    material.node_tree.links.new(alpha_node.outputs[0], shared.inputs[0])\n    # Add material.\n    obj.data.materials.append(material)\n    # Add keyframes.\n    alpha_node.outputs[0].default_value = 0.0\n    alpha_node.outputs[0].keyframe_insert(data_path=\"default_value\", frame=anim_start)\n    alpha_node.outputs[0].default_value = 1.0\n    alpha_node.outputs[0].keyframe_insert(data_path=\"default_value\", frame=(anim_start + 10))\n    alpha_node.outputs[0].keyframe_insert(data_path=\"default_value\", frame=(anim_start + 10 + anim_length))\n    alpha_node.outputs[0].default_value = 0.0\n    alpha_node.outputs[0].keyframe_insert(data_path=\"default_value\", frame=(anim_start + 10 + anim_length + 10))\n    return obj\n\n\ndef drop_lyrics(lyrics):\n    for idx, lyr in enumerate(LYRICS_PARSED):\n        o = get_text_object(idx, lyr.text, lyr.phase, lyr.anim_start * FPS, lyr.anim_length)\n        bpy.data.collections[\"Fonts\"].objects.link(o)\n\n\nif \"Fonts\" not in bpy.data.collections:\n    print(\"Collection doesn't exist\")\n    sys.stdout.flush()\nelse:\n    drop_lyrics(LYRICS)",
+			"TEXT",
+			"frame_start",
+			"drop_text",
+			"group",
+			"config_serial",
+			"hdmi",
+			"config_hdmi",
+			"hdmi",
+			"hdmi_output",
+			"indices",
+			"vertices",
+			"name",
+			"ParseOBJLine",
+			"depth",
+			"posAttrib",
+			"color",
+			"SetGeoForRendering",
+			"gldrawelements",
+			"swap",
+			"nk_clear",
+			"INIT_WINDOW_WIDTH",
+			"glViewport",
+			"INIT_WINDOW_WIDTH",
+			"glviewport",
+			"bindbuffer",
+			"bind",
+			"texture",
+			"GetUniformLoc",
+			"glgetattriblocation",
+			"mipmap",
+			"glTexParameteri",
+			"gentexture",
+			"glBindTexture",
+			"SetGeoForRendering",
+			"vbo",
+			"glGenBuffers",
+			"vbo",
+			"display_width",
+			"window_flags",
+			"glewExperimental",
+			"glContext",
+			"SetGeoForRendering",
+			"shaderProgram",
+			"isLinked",
+			"success",
+			"infoLog",
+			"shaderProgram",
+			"SetShader",
+			"createprogram",
+			"shaderProgram",
+			"fragmentShader",
+			"vertexShader",
+			"gl_depth_test",
+			"enable",
+			"GL_DEPTH_TEST",
+			");",
+			"font_tex",
+			"bindtexture",
+			"uniform",
+			"uniform_tex",
+			"modelOBJ",
+			"mouseSensitivity",
+			"SetGeoForRendering",
+			"vertices",
+			"nodedit",
+			"norma",
+			"mat4 view",
+			"sensit",
+			"mouse",
+			"drawGUI",
+			"UpdateViewRotation",
+			"translate",
+			"UpdateViewRotation",
+			"CUSTOM_3D_SPACE_MAX_Y",
+			"UpdateViewRotation",
+			"glm_ortho",
+			"UpdateViewMatrix",
+			"lmbState",
+			"UpdateViewMatrix",
+			"flip",
+			"NOT_USING_PERSPECTIVE",
+			"setshader",
+			"shader",
+			"vertexShader",
+			"shader",
+			"Michal",
+			"UpdateViewMatrix",
+			"SetGeoForRendering",
+			"r",
+			"draw",
+			"nk_rect",
+			"window",
+			"my game",
+			"nodedit",
+			"selected",
+			"it",
+			"initialized",
+			"nk_stroke_curve",
+			"nodes_window_transform",
+			"Node*",
+			"nodes_window_transform",
+			"windowsLayout",
+			"nodes_window_transform",
+			"bounds",
+			"nk_vec2",
+			"bounds",
+			"node_editor_init",
+			"node_editor_add",
+			"node_editor_pop",
+			"linking",
+			"NodeLinking",
+			"    ",
+			"linking",
+			"NodeLinking",
+			"struct node_linking",
+			"struct node_editor",
+			"node_editor",
+			"node_link",
+			"struct node ",
+			"struct node",
+			"node_editor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"Node",
+			"(font (size 0.5 0.5)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "deco_driver.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nukl",
+				"src\\nuklear.h"
+			],
+			[
+				"render",
+				"src\\render.cpp"
+			],
+			[
+				"shader",
+				"src\\shaders.h"
+			],
+			[
+				"affine",
+				"src\\cglm\\affine.h"
+			],
+			[
+				"base",
+				"src\\base.h"
+			],
+			[
+				"nuklear",
+				"src\\nuklear.h"
+			],
+			[
+				"nuklea",
+				"src\\nuklear_sdl_gles2.h"
+			],
+			[
+				"fbx",
+				"src\\fbx.h"
+			],
+			[
+				"local",
+				"milton\\src\\localization.cc"
+			],
+			[
+				"loca",
+				"milton\\src\\localization.h"
+			],
+			[
+				"binding.h",
+				"milton\\src\\bindings.h"
+			],
+			[
+				"milton",
+				"milton\\src\\milton.cc"
+			],
+			[
+				"binding",
+				"milton\\src\\bindings.cc"
+			],
+			[
+				"strokelist",
+				"milton\\src\\StrokeList.cc"
+			],
+			[
+				"strokli",
+				"milton\\src\\StrokeList.h"
+			],
+			[
+				"canvas.h",
+				"milton\\src\\canvas.h"
+			],
+			[
+				"milton.cc",
+				"milton\\src\\milton.cc"
+			],
+			[
+				"canvas",
+				"milton\\src\\canvas.cc"
+			],
+			[
+				"persist",
+				"milton\\src\\persist.cc"
+			],
+			[
+				"gui.cc",
+				"milton\\src\\gui.cc"
+			],
+			[
+				"sdl.h",
+				"observer\\src\\SDL2-2.0.8\\include\\SDL.h"
+			],
+			[
+				"stdin",
+				"observer\\src\\SDL2-2.0.8\\include\\SDL_stdinc.h"
+			],
+			[
+				"sysren",
+				"SDL2-2.0.8\\src\\render\\SDL_sysrender.h"
+			],
+			[
+				"hcimd",
+				"mronetwo.github.io\\_posts\\2018-06-11-no_hci_tools.md"
+			],
+			[
+				"hci",
+				"mronetwo.github.io\\_site\\no_hci_tools.html"
+			],
+			[
+				"read",
+				"mronetwo.github.io\\README.md"
+			],
+			[
+				"proj",
+				"mronetwo.github.io\\projects\\proj-3.md"
+			],
+			[
+				"log",
+				"F:\\scenes\\InPROGRESS\\ryu\\log.md"
+			],
+			[
+				"enemy",
+				"ThirdPersonStealther\\Assets\\Assets\\Scripts\\Enemy.cs"
+			],
+			[
+				"bull",
+				"C:\\Users\\mc\\Documents\\SimpleShooter\\Assets\\Scripts\\Bullet.cs"
+			],
+			[
+				"stm01md",
+				"mronetwo.github.io\\_posts\\2018-04-10-stm32_01.md"
+			],
+			[
+				"stm32md",
+				"mronetwo.github.io\\_posts\\2018-04-10-stm32_01.md"
+			],
+			[
+				"stm32",
+				"mronetwo.github.io\\_site\\stm32_01.html"
+			],
+			[
+				"format",
+				"mronetwo.github.io\\_drafts\\2014-01-01-text-formatting-examples.md"
+			],
+			[
+				"tim.c",
+				"libs\\stdperiph\\src\\stm32f30x_tim.c"
+			],
+			[
+				"main",
+				"src\\main.c"
+			],
+			[
+				"tim",
+				"libs\\stdperiph\\include\\stm32f30x_tim.h"
+			],
+			[
+				"gpio",
+				"libs\\stdperiph\\include\\stm32f30x_gpio.h"
+			],
+			[
+				"boot",
+				"Assets\\GameCode\\Bootstrap.cs"
+			],
+			[
+				"flash_ex.h",
+				"motorcycle-hud-cube-stmf303k8\\motorcycle-hud-cube-stmf303k8\\Drivers\\STM32F3xx_HAL_Driver\\Inc\\stm32f3xx_hal_flash_ex.h"
+			],
+			[
+				"flash.h",
+				"motorcycle-hud-cube-stmf303k8\\motorcycle-hud-cube-stmf303k8\\Drivers\\STM32F3xx_HAL_Driver\\Inc\\stm32f3xx_hal_flash.h"
+			],
+			[
+				"rtc.h",
+				"motorcycle-hud-cube-stmf303k8\\motorcycle-hud-cube-stmf303k8\\Drivers\\STM32F3xx_HAL_Driver\\Inc\\stm32f3xx_hal_rtc.h"
+			],
+			[
+				"uart",
+				"motorcycle-hud-cube-stmf303k8\\motorcycle-hud-cube-stmf303k8\\Drivers\\STM32F3xx_HAL_Driver\\Inc\\stm32f3xx_hal_uart.h"
+			],
+			[
+				"usart",
+				"motorcycle-hud-cmsis\\libs\\stdperiph\\include\\stm32f30x_usart.h"
+			],
+			[
+				"rcc",
+				"motorcycle-hud-cmsis\\libs\\stdperiph\\include\\stm32f30x_rcc.h"
+			],
+			[
+				"gitigno",
+				"motorcycle-hud-cmsis\\.gitignore"
+			],
+			[
+				"reade",
+				"motorcycle-hud-cmsis\\README.md"
+			],
+			[
+				"ignor",
+				"motorcycle-hud-cmsis\\.gitignore"
+			],
+			[
+				"system",
+				"motorcycle-hud-cmsis\\libs\\stdperiph\\system_stm32f30x.c"
+			],
+			[
+				"giti",
+				"motorcycle-hud-cmsis\\.gitignore"
+			],
+			[
+				"json",
+				"motorcycle-hud-arduino\\.piolibdeps\\Adafruit SSD1351 library_ID266\\.library.json"
+			],
+			[
+				"squa",
+				"raylib-shaders\\build\\resources\\shaders\\square.fs"
+			],
+			[
+				"squ",
+				"raylib-shaders\\build\\resources\\shaders\\squares_pattern.fs"
+			],
+			[
+				"pla",
+				"ECSTesting\\Assets\\GameCode\\PlayerMoveSystem.cs"
+			],
+			[
+				"player",
+				"ECSTesting\\Assets\\GameCode\\PlayerInputSystem.cs"
+			],
+			[
+				"hud",
+				"ECSTesting\\Assets\\GameCode\\UpdatePlayerHUD.cs"
+			],
+			[
+				"compo",
+				"ECSTesting\\Assets\\GameCode\\ComponentTypes.cs"
+			],
+			[
+				"setti",
+				"ECSTesting\\Assets\\GameCode\\Settings.cs"
+			],
+			[
+				"stm",
+				"_posts\\2018-04-10-stm32_01.md"
+			],
+			[
+				"about",
+				"pages\\about.html"
+			],
+			[
+				"test",
+				"glsl330\\test.fs"
+			],
+			[
+				"fuel",
+				"fuel_gauge\\dae\\fuel_gauge.gd"
+			],
+			[
+				"win",
+				"C:\\Users\\mc\\gits\\win_app\\app\\code\\win32_main.cpp"
+			],
+			[
+				"debu",
+				"fuel_gauge\\Scripts\\DebugDraw2PLine.gd"
+			],
+			[
+				"fue",
+				"fuel_gauge\\dae\\fuel_gauge.gd"
+			],
+			[
+				"camera",
+				"fuel_gauge\\Scenes\\orbit_camera\\orbit_camera_gimbals.gd"
+			],
+			[
+				"soc",
+				"fuel_gauge\\Scripts\\socket.gd"
+			],
+			[
+				"fu",
+				"fuel_gauge\\dae\\fuel_gauge.gd"
+			],
+			[
+				"fas",
+				"fuel_gauge\\Scenes\\fastener\\fastener.gd"
+			],
+			[
+				"so",
+				"Scripts\\socket.gd"
+			],
+			[
+				"socket",
+				"Scripts\\Socket.gd"
+			],
+			[
+				"debug",
+				"Scripts\\DebugDraw2PLine.gd"
+			],
+			[
+				"fast",
+				"Scripts\\fastener.gd"
+			],
+			[
+				"bol",
+				"tests\\bolt_test\\bolt.gd"
+			],
+			[
+				"mana",
+				"Scripts\\autoload\\manager.gd"
+			],
+			[
+				"boltgd",
+				"tests\\bolt_test\\bolt.gd"
+			],
+			[
+				"bolt",
+				"tests\\bolt_test\\bolt_test.gd"
+			],
+			[
+				"gimbal",
+				"Scenes\\orbit_camera\\orbit_camera_gimbals.gd"
+			],
+			[
+				"bu",
+				"Scenes\\main_menu\\button_with_blip.gd"
+			],
+			[
+				"butt",
+				"Scenes\\main_menu\\button_with_blip.gd"
+			],
+			[
+				"gim",
+				"Scenes\\orbit_camera\\orbit_camera_gimbals.gd"
+			],
+			[
+				"orbi",
+				"Scenes\\orbit_camera\\orbit_camera.gd"
+			],
+			[
+				"ded",
+				"Scenes\\death_screen\\death_screen.gd"
+			],
+			[
+				"pause",
+				"Scenes\\pause_screen\\pause_screen.gd"
+			],
+			[
+				"player.g",
+				"Scenes\\Player\\Player.gd"
+			],
+			[
+				"game",
+				"Scenes\\game_director\\game_director.gd"
+			],
+			[
+				"even",
+				"Scenes\\events_manager\\events_manager.gd"
+			],
+			[
+				"todo",
+				"TodoReview"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\mc\\gits\\milton_fork\\milton_fork.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "_timer",
+		"_vintageous_last_buffer_search_command": "vi_star",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": ",",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Users\\mc\\gits\\raw_node_editor\\src"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
