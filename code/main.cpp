@@ -215,7 +215,7 @@ internal bool OpenDevice(HANDLE* handle, Device_t* device, bool exclusive)
 
   // Copy found handle
   if (resultHandle && resultHandle != INVALID_HANDLE_VALUE) {
-    memcpy(handle, &resultHandle, sizeof(HANDLE));
+    *handle = resultHandle;
     return true;
   }
 
@@ -244,7 +244,7 @@ main(int argc, char**argv)
   Device_t device = {};
 
   device.VID = 0x28BD;
-  device.PID = 0x0042;
+  device.PID = 0x0902;
   device.usagePage = 0xFF0A;
   device.usage = 0x0001;
 
